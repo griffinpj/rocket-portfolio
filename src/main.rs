@@ -33,7 +33,7 @@ fn index() -> IndexTmpl<'static> {
         about_me: "Hey! I'm a Full Stack Web Developer. I have experience working on a wide range of different of projects. Lately, I've been working in the nodeJS ecosystem but looking at rust for future development :)",
         linked_in: "https://www.linkedin.com/in/griffin-johnson-462393134",
         github: "https://github.com/griffinpj",
-        mail_link: "mailto:griffinpjohnson@gmail.com",
+        mail_link: "mailto:griffin@griff.la",
         resume_download_link: "https://github.com/Cougargriff/ResumeLatex/raw/master/resume_curr.pdf",
         version_line: "0.2.3"
     }
